@@ -6,7 +6,7 @@
 
 ## Resource
 - 📑 [Presentation Deck](https://drive.google.com/file/d/1b099g6g7NLgfDsNsRdZqUIYjUQwamW-X/view?usp=sharing) 
-- 👨🏻‍💻 [Cpde](https://github.com/bintangpradanaa/customer-purchase-behavior-market-basket-analysis-for-bakery-store/blob/main/code/Customer_Purchase_Behavior_and_Market_Basket_Analysis_in_Bakery_Store.ipynb)
+- 👨🏻‍💻 [Code](https://github.com/bintangpradanaa/customer-purchase-behavior-market-basket-analysis-for-bakery-store/blob/main/code/Customer_Purchase_Behavior_and_Market_Basket_Analysis_in_Bakery_Store.ipynb)
 
 ## Project Overview
 In the highly competitive Food & Beverage (FnB) industry, bakery stores need to go beyond product quality and start understanding customer purchasing behavior to maximize sales opportunities. This project focuses on analyzing transactional data from a bakery store to uncover hidden product relationships and customer buying patterns using **Market Basket Analysis**.
