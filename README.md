@@ -1,7 +1,7 @@
 # Customer Purchase Behavior & Market Basket Analysis for Bakery Store
 
 <p align="center">
-  <img src="images/bakery-pict.jpg" alt="Project Banner" width="1000"/>
+  <img src="images/bakery-pict.avif" alt="Project Banner" width="1000"/>
 </p>
 
 ## Project Overview
