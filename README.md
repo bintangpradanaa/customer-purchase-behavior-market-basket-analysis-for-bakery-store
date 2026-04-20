@@ -78,7 +78,3 @@ Translate findings into actionable insights to support marketing, bundling strat
 - Increase staffing during peak hours (12–1 PM and weekends)
 - Launch weekday upselling campaigns (Thursday–Friday)
 - Optimize evening menu for niche and low-volume products
-
-## Output
-- Market Basket Analysis model
-- Customer purchasing behavior insights
